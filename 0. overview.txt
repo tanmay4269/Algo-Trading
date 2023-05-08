@@ -1,0 +1,4 @@
+1. algo trading basics and api basics
+2. project 1: equal-weight S&P 500 screener
+3. project 2: quantitative momentum screener
+4. project 3: quantitative value screener
